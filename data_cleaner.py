@@ -27,3 +27,5 @@ subset_data
 
 subset_data.fillna(0)
 subset_data.fillna(method='bfill', axis=0).fillna(0)
+
+
